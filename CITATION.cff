@@ -6,6 +6,10 @@ authors:
   - name: "The authors"
 repository-code: "https://github.com/omicverse/luria-opal"
 license: CC-BY-4.0
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23251666"
+    description: "Working files deposited at Zenodo"
 abstract: >-
   The ledger, source tables and independent recomputation scripts for a campaign
   in which the Luria multi-agent system surveyed 618,638,921 proteins, returned a

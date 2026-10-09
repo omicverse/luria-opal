@@ -53,7 +53,8 @@ verify/                      independent recomputation of the headline statistic
 - **The raw agent transcript.** It contains API credentials and full agent prompts.
 - **The manuscript and figures.**
 - **The screen working files**, about 1.3 GB: per-chunk HMMER output, FASTA shards, provirus calls,
-  predicted structures. These are deposited at Zenodo; see `docs/zenodo.md`.
+  predicted structures. These are deposited at Zenodo,
+  [10.5281/zenodo.23251666](https://doi.org/10.5281/zenodo.23251666); see `docs/zenodo.md`.
 
 ## Key parameters
 
