@@ -1,0 +1,32 @@
+{
+ "n_real": 1572,
+ "hit_real": 55,
+ "n_ctrl": 1368,
+ "hit_ctrl": 21,
+ "odds": 2.32554854506074,
+ "p": 0.000979160803484016,
+ "fam_real": {
+  "N6_N4_Mtase": 27,
+  "HTH_ParB_Mtase": 15,
+  "N6_Mtase": 9,
+  "Methylase_S": 7,
+  "Methyltransf_25": 5,
+  "Methyltransf_31": 5,
+  "Methyltransf_11": 5,
+  "Methyltransf_12": 3,
+  "Methyltransf_23": 3,
+  "DNA_methylase": 2
+ },
+ "fam_ctrl": {
+  "N6_N4_Mtase": 8,
+  "HTH_ParB_Mtase": 6,
+  "Methyltransf_11": 3,
+  "DNA_methylase": 2,
+  "Methyltransf_25": 2,
+  "Methyltransf_21": 2,
+  "N6_Mtase": 2,
+  "Methylase_S": 1,
+  "Methyltransf_31": 1,
+  "Methyltransf_15": 1
+ }
+}

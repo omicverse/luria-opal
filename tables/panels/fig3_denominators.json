@@ -1,0 +1,22 @@
+{
+  "LSR (Resolvase + Recombinase)": {
+    "loci": 153,
+    "pairs": 153,
+    "partners": 153
+  },
+  "任何丝氨酸重组酶 (Resolvase)": {
+    "loci": 168,
+    "pairs": 168,
+    "partners": 168
+  },
+  "Resolvase 或 Recombinase": {
+    "loci": 169,
+    "pairs": 169,
+    "partners": 169
+  },
+  "panelD": {
+    "same": 168,
+    "diff": 0,
+    "total": 168
+  }
+}

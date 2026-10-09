@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "luria-opal: audit material for an autonomous genome-mining campaign"
+message: "If you use this material, please cite the manuscript."
+type: dataset
+authors:
+  - name: "The authors"
+repository-code: "https://github.com/omicverse/luria-opal"
+license: CC-BY-4.0
+abstract: >-
+  The ledger, source tables and independent recomputation scripts for a campaign
+  in which the Luria multi-agent system surveyed 618,638,921 proteins, returned a
+  negative result on its brief, and identified OPAL (PF11149, formerly DUF2924) as
+  an operon-coupled accessory of large serine recombinases.

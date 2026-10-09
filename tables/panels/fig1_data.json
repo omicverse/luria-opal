@@ -1,0 +1,289 @@
+{
+ "A": {
+  "n_events": 373,
+  "n_campaigns": 25,
+  "event_types": {
+   "created": 25,
+   "believed": 18,
+   "derived": 111,
+   "stopping_revised": 6,
+   "round": 93,
+   "status_changed": 27,
+   "dispatched": 76,
+   "redescribed": 2,
+   "columns_declared": 1,
+   "objective_falsifier_declared": 7,
+   "objective_declared": 6,
+   "judged": 1
+  },
+  "dispatch": {
+   "auditor": 63,
+   "experiment": 13,
+   "theory": 0,
+   "hypothesis": 0
+  },
+  "loop": {
+   "created": 25,
+   "round": 93,
+   "believed": 18,
+   "n_theories": 45,
+   "theory_active": 39,
+   "theory_refuted": 6,
+   "falsifier": 7,
+   "dispatched": 76,
+   "judged": 1,
+   "stopped": 27,
+   "subagents": 105,
+   "agents_defined": 11,
+   "agents_ran": 2,
+   "sess_auditor": 18,
+   "sess_experiment": 11
+  }
+ },
+ "B": [
+  [
+   "bacterial proteins scanned",
+   599869792
+  ],
+  [
+   "MGE-adjacency pairs",
+   8098173
+  ],
+  [
+   "after host-Xer cleanup",
+   79415
+  ],
+  [
+   "Pfam-A models screened",
+   30134
+  ],
+  [
+   "families at FDR q<0.05",
+   32
+  ],
+  [
+   "sequences clustered",
+   181751
+  ],
+  [
+   "clusters",
+   84591
+  ],
+  [
+   "clusters ≥20 members",
+   1021
+  ],
+  [
+   "without Pfam annotation",
+   12
+  ],
+  [
+   "case-exclusive",
+   6
+  ],
+  [
+   "DUF2924, whole proteome",
+   15266
+  ]
+ ],
+ "D": {
+  "rcap": {
+   "2682": {
+    "pid": "NC_014034.1_2682",
+    "start": 2907984,
+    "end": 2909516,
+    "strand": -1,
+    "domains": [
+     [
+      23,
+      151,
+      "HATPase_c_3",
+      3.1e-17
+     ]
+    ]
+   },
+   "2683": {
+    "pid": "NC_014034.1_2683",
+    "start": 2909549,
+    "end": 2910904,
+    "strand": -1,
+    "domains": [
+     [
+      4,
+      196,
+      "DNA_methylase",
+      6.3e-57
+     ],
+     [
+      366,
+      420,
+      "DNA_methylase",
+      3.1e-09
+     ]
+    ]
+   },
+   "2684": {
+    "pid": "NC_014034.1_2684",
+    "start": 2911228,
+    "end": 2911611,
+    "strand": -1,
+    "domains": []
+   },
+   "2685": {
+    "pid": "NC_014034.1_2685",
+    "start": 2911608,
+    "end": 2912933,
+    "strand": -1,
+    "domains": [
+     [
+      17,
+      169,
+      "Resolvase",
+      2e-42
+     ],
+     [
+      189,
+      275,
+      "Recombinase",
+      1.9e-17
+     ],
+     [
+      291,
+      351,
+      "Zn_ribbon_recom",
+      4.8e-11
+     ]
+    ]
+   },
+   "2686": {
+    "pid": "NC_014034.1_2686",
+    "start": 2912930,
+    "end": 2913385,
+    "strand": -1,
+    "domains": [
+     [
+      9,
+      145,
+      "DUF2924",
+      9.8e-55
+     ]
+    ]
+   },
+   "2687": {
+    "pid": "NC_014034.1_2687",
+    "start": 2913758,
+    "end": 2914996,
+    "strand": 1,
+    "domains": []
+   },
+   "2688": {
+    "pid": "NC_014034.1_2688",
+    "start": 2914965,
+    "end": 2915894,
+    "strand": 1,
+    "domains": []
+   }
+  },
+  "fusions": {
+   "case|CAVOZK010000001.1_20": {
+    "len": 469,
+    "doms": [
+     [
+      35,
+      97,
+      "DUF3489",
+      3.5e-21
+     ],
+     [
+      122,
+      253,
+      "DUF2924",
+      3.6e-41
+     ],
+     [
+      280,
+      432,
+      "Resolvase",
+      2.8e-40
+     ]
+    ]
+   },
+   "case|DAOPJV010000049.1_39": {
+    "len": 719,
+    "doms": [
+     [
+      14,
+      161,
+      "Resolvase",
+      3.4e-33
+     ],
+     [
+      191,
+      310,
+      "Recombinase",
+      2.3e-19
+     ],
+     [
+      324,
+      391,
+      "Zn_ribbon_recom",
+      1.8e-11
+     ],
+     [
+      628,
+      713,
+      "DUF2924",
+      2e-24
+     ]
+    ]
+   }
+  }
+ },
+ "E": {
+  "rows": [
+   {
+    "n": 133,
+    "cm": 19,
+    "bm": 0,
+    "doms": "DUF2924,DUF3489,Resolvase"
+   },
+   {
+    "n": 28,
+    "cm": 7,
+    "bm": 0,
+    "doms": "DUF2924,Recombinase,Resolvase,Zn_ribbon_recom"
+   },
+   {
+    "n": 37,
+    "cm": 4,
+    "bm": 0,
+    "doms": "DUF2924"
+   }
+  ],
+  "file": "matched_enrichment.json",
+  "mtime": "2026-10-01 16:43"
+ },
+ "F": {
+  "ser": {
+   "1": 12820,
+   "0": 91,
+   "2": 882,
+   "5": 64,
+   "3": 150,
+   "4": 81
+  },
+  "tyr": {
+   "3": 128,
+   "2": 210,
+   "5": 121,
+   "1": 83,
+   "4": 122,
+   "0": 1
+  },
+  "n_ser": 524414,
+  "ser_with": 14088,
+  "n_tyr": 1403550,
+  "tyr_with": 665,
+  "odds": 58.23741291833535
+ }
+}

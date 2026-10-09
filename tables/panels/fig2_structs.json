@@ -1,0 +1,26 @@
+[
+ {
+  "q": "R_CAYOTD010000767.1_2",
+  "path": "../outputs/fe0970b9-86bd-9a46-2a9e-dde59b863117/discovery/dark/fsq2/R_CAYOTD010000767.1_2.cif",
+  "n": 156,
+  "group": "RAMA-like"
+ },
+ {
+  "q": "R_CAYUHJ010000147.1_13",
+  "path": "../outputs/fe0970b9-86bd-9a46-2a9e-dde59b863117/discovery/dark/fsq2/R_CAYUHJ010000147.1_13.cif",
+  "n": 154,
+  "group": "RAMA-like"
+ },
+ {
+  "q": "N_CAWAOP010000019.1_24",
+  "path": "../outputs/fe0970b9-86bd-9a46-2a9e-dde59b863117/discovery/dark/fsq2/N_CAWAOP010000019.1_24.cif",
+  "n": 155,
+  "group": "non-RAMA"
+ },
+ {
+  "q": "N_CAWJUK010000007.1_89",
+  "path": "../outputs/fe0970b9-86bd-9a46-2a9e-dde59b863117/discovery/dark/fsq2/N_CAWJUK010000007.1_89.cif",
+  "n": 152,
+  "group": "non-RAMA"
+ }
+]

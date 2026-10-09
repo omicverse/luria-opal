@@ -1,0 +1,87 @@
+{
+ "xerd": {
+  "cleanup": {
+   "case_total": 100000,
+   "all_xer_orphan": 20585,
+   "clean_case": 79415,
+   "old_removed": 14947,
+   "old_missed": 6142,
+   "old_over_removed_mixed": 504
+  },
+  "xer_pct": {
+   "pi_hits_unique": 210214,
+   "pi_besthit_xer_pct": 20.4,
+   "sam1_hits_unique": 97135,
+   "sam1_besthit_xer_pct": 32.1,
+   "case_mge_neighbor_total": 98328,
+   "case_mge_unique_classified": 58216,
+   "case_mge_besthit_xer_pct_of_total": 21.3
+  },
+  "enrich": {
+   "pyrG": {
+    "before": 138,
+    "after": 5,
+    "odds_orig": 5.672,
+    "p_orig": 6.96e-24,
+    "odds_clean": 0.264,
+    "p_clean": 1.0
+   },
+   "guaA": {
+    "before": 62,
+    "after": 60,
+    "odds_orig": 3.435,
+    "p_orig": 5.78e-08,
+    "odds_clean": 4.275,
+    "p_clean": 2.07e-10
+   }
+  }
+ },
+ "ganc": {
+  "A": {
+   "n": 7758
+  },
+  "B": {
+   "n": 15000
+  },
+  "effect": {
+   "GANTC": {
+    "mean_A": 1.9090571199034712,
+    "mean_B": 1.7678321057811104,
+    "d": 0.13465311632525798
+   },
+   "GATC": {
+    "mean_A": 6.849732564202554,
+    "mean_B": 7.0339222919762285,
+    "d": -0.06874297790630074
+   }
+  }
+ },
+ "methyl": {
+  "_source": "discovery/REVERSE_SUMMARY.md · camp_de2f0fba · 9-domain clean DNA-methylation/RM filter",
+  "duf2924": {
+   "hit": 36,
+   "n": 183,
+   "pct": 19.7
+  },
+  "paired_ctrl": {
+   "hit": 12,
+   "n": 200,
+   "pct": 6.0,
+   "label": "integrase-neighbourhood orphans"
+  },
+  "random_ctrl": {
+   "hit": 2,
+   "n": 200,
+   "pct": 1.0,
+   "label": "random recombinase loci",
+   "serine": "0/60"
+  },
+  "valid_comparison": {
+   "ratio": 3.28,
+   "fisher_or": 3.84,
+   "p": 8.1e-05,
+   "vs": "paired_ctrl"
+  },
+  "note": "vs random recombinase gives ~20x but is confounded by orphan identity"
+ }
+}

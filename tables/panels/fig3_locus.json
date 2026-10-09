@@ -1,0 +1,157 @@
+{
+ "contig": "NZ_AP021879.1",
+ "organism": "Desulfosarcina ovata subsp. ovata oXyS1",
+ "contig_len": 7630248,
+ "pv": [
+  3397389,
+  3487315
+ ],
+ "duf_idx": 3016,
+ "genes": [
+  {
+   "i": 3009,
+   "s": 3395146,
+   "e": 3396018,
+   "st": 1,
+   "dom": [],
+   "is_duf": false,
+   "is_rec": false
+  },
+  {
+   "i": 3010,
+   "s": 3396074,
+   "e": 3397477,
+   "st": 1,
+   "dom": [],
+   "is_duf": false,
+   "is_rec": false
+  },
+  {
+   "i": 3011,
+   "s": 3397389,
+   "e": 3399128,
+   "st": -1,
+   "dom": [],
+   "is_duf": false,
+   "is_rec": false
+  },
+  {
+   "i": 3012,
+   "s": 3399115,
+   "e": 3400191,
+   "st": -1,
+   "dom": [],
+   "is_duf": false,
+   "is_rec": false
+  },
+  {
+   "i": 3013,
+   "s": 3400184,
+   "e": 3401350,
+   "st": -1,
+   "dom": [],
+   "is_duf": false,
+   "is_rec": false
+  },
+  {
+   "i": 3014,
+   "s": 3401398,
+   "e": 3402021,
+   "st": -1,
+   "dom": [
+    "LexA_DNA_bind",
+    "MarR_2",
+    "Peptidase_S24"
+   ],
+   "is_duf": false,
+   "is_rec": false
+  },
+  {
+   "i": 3015,
+   "s": 3402325,
+   "e": 3402546,
+   "st": 1,
+   "dom": [],
+   "is_duf": false,
+   "is_rec": false
+  },
+  {
+   "i": 3016,
+   "s": 3402570,
+   "e": 3403136,
+   "st": 1,
+   "dom": [],
+   "is_duf": true,
+   "is_rec": false
+  },
+  {
+   "i": 3017,
+   "s": 3403126,
+   "e": 3404712,
+   "st": 1,
+   "dom": [
+    "Recombinase",
+    "Resolvase",
+    "Zn_ribbon_recom"
+   ],
+   "is_duf": false,
+   "is_rec": true
+  },
+  {
+   "i": 3018,
+   "s": 3404709,
+   "e": 3405131,
+   "st": 1,
+   "dom": [],
+   "is_duf": false,
+   "is_rec": false
+  },
+  {
+   "i": 3019,
+   "s": 3405466,
+   "e": 3405798,
+   "st": 1,
+   "dom": [],
+   "is_duf": false,
+   "is_rec": false
+  },
+  {
+   "i": 3020,
+   "s": 3405711,
+   "e": 3405941,
+   "st": -1,
+   "dom": [],
+   "is_duf": false,
+   "is_rec": false
+  },
+  {
+   "i": 3021,
+   "s": 3405974,
+   "e": 3406561,
+   "st": 1,
+   "dom": [],
+   "is_duf": false,
+   "is_rec": false
+  },
+  {
+   "i": 3022,
+   "s": 3406699,
+   "e": 3407013,
+   "st": 1,
+   "dom": [],
+   "is_duf": false,
+   "is_rec": false
+  },
+  {
+   "i": 3023,
+   "s": 3407025,
+   "e": 3408029,
+   "st": 1,
+   "dom": [],
+   "is_duf": false,
+   "is_rec": false
+  }
+ ],
+ "pv_genes": 78,
+ "pv_score": 60.2657
+}

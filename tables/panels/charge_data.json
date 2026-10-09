@@ -1,0 +1,27 @@
+{
+ "DUF2924 (183)": {
+  "n": 183,
+  "median_q": 10,
+  "median_p": 6.432748538011696,
+  "frac_pos": 0.994535519125683
+ },
+ "length-matched neighbours (325)": {
+  "n": 325,
+  "median_q": 2,
+  "median_p": 1.4285714285714286,
+  "frac_pos": 0.6
+ },
+ "all neighbours (1572)": {
+  "n": 1572,
+  "median_q": 1.0,
+  "median_p": 0.49677209192134564,
+  "frac_pos": 0.5254452926208651
+ },
+ "serine recombinases (238)": {
+  "n": 238,
+  "median_q": 10.0,
+  "median_p": 2.462121212121212,
+  "frac_pos": 0.865546218487395
+ },
+ "mwu_p": 3.095131672467755e-31
+}

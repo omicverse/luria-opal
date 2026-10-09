@@ -1,0 +1,47 @@
+[
+ {
+  "key": "cx_paired",
+  "pair": "DUF2924 + its own LSR",
+  "msa": "paired MSA (175 co-located pairs)",
+  "iptm": 0.5383650064468384,
+  "ptm": 0.3316750228404999,
+  "plddt": 0.797758936882019,
+  "conf": 0.745880126953125
+ },
+ {
+  "key": "cx_shuf",
+  "pair": "DUF2924 + its own LSR",
+  "msa": "pairing shuffled",
+  "iptm": 0.5426557660102844,
+  "ptm": 0.33933690190315247,
+  "plddt": 0.7924197912216187,
+  "conf": 0.7424669861793518
+ },
+ {
+  "key": "cx_with",
+  "pair": "DUF2924 + its own LSR",
+  "msa": "server MSA, unpaired",
+  "iptm": 0.11527984589338303,
+  "ptm": 0.25827503204345703,
+  "plddt": 0.44471317529678345,
+  "conf": 0.3788264989852905
+ },
+ {
+  "key": "cx_noduf",
+  "pair": "DUF2924 + an LSR lacking DUF2924",
+  "msa": "server MSA, unpaired",
+  "iptm": 0.13869106769561768,
+  "ptm": 0.22596032917499542,
+  "plddt": 0.4577924609184265,
+  "conf": 0.3939721882343292
+ },
+ {
+  "key": "cx_tyr",
+  "pair": "DUF2924 + a tyrosine integrase",
+  "msa": "server MSA, unpaired",
+  "iptm": 0.09028080850839615,
+  "ptm": 0.19896188378334045,
+  "plddt": 0.46606573462486267,
+  "conf": 0.39090874791145325
+ }
+]

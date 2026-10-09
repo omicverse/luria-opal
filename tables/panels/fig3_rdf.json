@@ -1,0 +1,58 @@
+{
+ "known": [
+  {
+   "name": "Bxb1 gp47",
+   "host": "Mycobacteriophage Bxb1",
+   "len": 56,
+   "pos": "downstream",
+   "pI": 9.6,
+   "ref": "Ghosh 2006 Mol Cell"
+  },
+  {
+   "name": "phiC31 gp3",
+   "host": "Streptomyces phage phiC31",
+   "len": 123,
+   "pos": "downstream",
+   "pI": 9.3,
+   "ref": "Khaleel 2011 Mol Microbiol"
+  },
+  {
+   "name": "phiRv1 Rv1584c",
+   "host": "M. tuberculosis prophage",
+   "len": 84,
+   "pos": "downstream",
+   "pI": 9.9,
+   "ref": "Bibb 2005 Mol Microbiol"
+  },
+  {
+   "name": "TP901-1 ORF7",
+   "host": "Lactococcus phage TP901-1",
+   "len": 64,
+   "pos": "upstream",
+   "pI": 9.5,
+   "ref": "Breuner 1999 J Bacteriol"
+  },
+  {
+   "name": "A118 Gp44",
+   "host": "Listeria phage A118",
+   "len": 85,
+   "pos": "downstream",
+   "pI": 9.7,
+   "ref": "Mandali 2017 Nucleic Acids Res"
+  }
+ ],
+ "duf": {
+  "name": "DUF2924",
+  "host": "183 bacterial loci",
+  "len": 151,
+  "pos": "both",
+  "up": 82,
+  "dn": 86,
+  "pI_median": 10.371560859680173,
+  "pI_q1": 9.915060234069824,
+  "pI_q3": 10.869192314147949,
+  "len_median": 156,
+  "n": 181,
+  "pi_gt8": 0.994475138121547
+ }
+}

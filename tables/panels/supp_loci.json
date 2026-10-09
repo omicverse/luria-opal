@@ -1,0 +1,166 @@
+[
+ {
+  "contig": "NZ_FTPS01000001.1",
+  "organism": "Pontibaca methylaminivorans",
+  "duf_idx": 46,
+  "duf_pfam": "DUF2924",
+  "genes": {
+   "44": {
+    "pfam": "DUF7146",
+    "len": 306
+   },
+   "45": {
+    "pfam": "HTH_36",
+    "len": 102
+   },
+   "46": {
+    "pfam": "DUF2924",
+    "len": 152
+   },
+   "47": {
+    "pfam": "Resolvase",
+    "len": 442
+   },
+   "49": {
+    "pfam": "ResIII",
+    "len": 917
+   },
+   "50": {
+    "pfam": "Methylase_S",
+    "len": 597
+   }
+  },
+  "has_rec": true,
+  "has_met": true,
+  "n": 6
+ },
+ {
+  "contig": "NZ_JTDI01000002.1",
+  "organism": "Novosphingobium malaysiense",
+  "duf_idx": 567,
+  "duf_pfam": "DUF2924",
+  "genes": {
+   "563": {
+    "pfam": "GcrA",
+    "len": 231
+   },
+   "564": {
+    "pfam": "ABC2_membrane",
+    "len": 293
+   },
+   "565": {
+    "pfam": "YccV-like",
+    "len": 175
+   },
+   "566": {
+    "pfam": "Resolvase",
+    "len": 557
+   },
+   "567": {
+    "pfam": "DUF2924",
+    "len": 139
+   },
+   "568": {
+    "pfam": "DUF3489",
+    "len": 186
+   },
+   "569": {
+    "pfam": "TetR_N",
+    "len": 207
+   },
+   "570": {
+    "pfam": "p450",
+    "len": 513
+   },
+   "571": {
+    "pfam": "adh_short_C2",
+    "len": 288
+   }
+  },
+  "has_rec": true,
+  "has_met": false,
+  "n": 9
+ },
+ {
+  "contig": "NZ_JBFONW020000003.1",
+  "organism": "Aestuariibius insulae",
+  "duf_idx": 40,
+  "duf_pfam": "DUF2924",
+  "genes": {
+   "36": {
+    "pfam": "Mur_ligase_M",
+    "len": 466
+   },
+   "37": {
+    "pfam": "Peptidase_S11",
+    "len": 397
+   },
+   "38": {
+    "pfam": "SPOR",
+    "len": 291
+   },
+   "39": {
+    "pfam": "Resolvase",
+    "len": 171
+   },
+   "40": {
+    "pfam": "DUF2924",
+    "len": 137
+   },
+   "41": {
+    "pfam": "DUF3489",
+    "len": 104
+   },
+   "43": {
+    "pfam": "DUF1485",
+    "len": 492
+   },
+   "44": {
+    "pfam": "ABC_tran",
+    "len": 301
+   }
+  },
+  "has_rec": true,
+  "has_met": false,
+  "n": 8
+ },
+ {
+  "contig": "NZ_CP195791.1",
+  "organism": "Planctomicrobium stercoris",
+  "duf_idx": 4743,
+  "duf_pfam": "DUF2924",
+  "genes": {
+   "4739": {
+    "pfam": "Complex1_30kDa",
+    "len": 164
+   },
+   "4740": {
+    "pfam": "Oxidored_q6",
+    "len": 208
+   },
+   "4741": {
+    "pfam": "Oxidored_q4",
+    "len": 125
+   },
+   "4743": {
+    "pfam": "DUF2924",
+    "len": 161
+   },
+   "4744": {
+    "pfam": "Resolvase",
+    "len": 520
+   },
+   "4746": {
+    "pfam": "AAA_30",
+    "len": 1242
+   },
+   "4747": {
+    "pfam": "DNA_processg_A",
+    "len": 251
+   }
+  },
+  "has_rec": true,
+  "has_met": false,
+  "n": 7
+ }
+]

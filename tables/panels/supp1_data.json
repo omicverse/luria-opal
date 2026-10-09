@@ -1,0 +1,660 @@
+{
+ "A": {
+  "runs": {
+   "ask": {
+    "input": 11434759,
+    "output": 87182,
+    "t0": 1790759691.488,
+    "campaigns": 0,
+    "auditor": 0,
+    "experiment": 0,
+    "rounds": 0
+   },
+   "continue_bacteria": {
+    "input": 31348702,
+    "output": 110727,
+    "t0": 1790585439.941,
+    "campaigns": 1,
+    "auditor": 1,
+    "experiment": 0,
+    "rounds": 2
+   },
+   "continue_branche_assembly": {
+    "input": 216233206,
+    "output": 1274915,
+    "t0": 1790714240.6,
+    "campaigns": 5,
+    "auditor": 7,
+    "experiment": 0,
+    "rounds": 15
+   },
+   "continue_branche_controls": {
+    "input": 148728746,
+    "output": 1154088,
+    "t0": 1790684326.768,
+    "campaigns": 2,
+    "auditor": 9,
+    "experiment": 1,
+    "rounds": 12
+   },
+   "continue_duf2924": {
+    "input": 55950214,
+    "output": 533850,
+    "t0": 1790913629.258,
+    "campaigns": 1,
+    "auditor": 2,
+    "experiment": 1,
+    "rounds": 5
+   },
+   "continue_gantc": {
+    "input": 24207933,
+    "output": 341650,
+    "t0": 1791006096.002,
+    "campaigns": 1,
+    "auditor": 4,
+    "experiment": 1,
+    "rounds": 2
+   },
+   "continue_hunt2": {
+    "input": 51984378,
+    "output": 597662,
+    "t0": 1790888043.701,
+    "campaigns": 0,
+    "auditor": 2,
+    "experiment": 1,
+    "rounds": 3
+   },
+   "continue_tnb": {
+    "input": 147120042,
+    "output": 1219588,
+    "t0": 1790619074.057,
+    "campaigns": 3,
+    "auditor": 18,
+    "experiment": 4,
+    "rounds": 16
+   },
+   "continue_xerd": {
+    "input": 162349860,
+    "output": 871075,
+    "t0": 1790809583.009,
+    "campaigns": 2,
+    "auditor": 4,
+    "experiment": 1,
+    "rounds": 16
+   },
+   "loop1": {
+    "input": 315225610,
+    "output": 1696762,
+    "t0": 1790494204.951,
+    "campaigns": 2,
+    "auditor": 5,
+    "experiment": 4,
+    "rounds": 8
+   },
+   "pyrg": {
+    "input": 50798213,
+    "output": 456007,
+    "t0": 1790799659.533,
+    "campaigns": 2,
+    "auditor": 3,
+    "experiment": 0,
+    "rounds": 7
+   },
+   "resume": {
+    "input": 6067735,
+    "output": 73638,
+    "t0": 1790388488.242,
+    "campaigns": 3,
+    "auditor": 0,
+    "experiment": 0,
+    "rounds": 2
+   },
+   "review": {
+    "input": 134199571,
+    "output": 1178754,
+    "t0": 1790767728.63,
+    "campaigns": 3,
+    "auditor": 8,
+    "experiment": 0,
+    "rounds": 5
+   }
+  }
+ },
+ "B": {
+  "families": [
+   {
+    "name": "Y2_Tnp",
+    "acc": "PF04986",
+    "case": 51,
+    "bg": 0,
+    "odds": Infinity,
+    "q": 4.05e-13,
+    "p400": 8.7e-05,
+    "gt400": [
+     11,
+     0
+    ],
+    "len_state": "pass",
+    "group": "mge"
+   },
+   {
+    "name": "Zn_Tnp_IS91",
+    "acc": "PF14319",
+    "case": 47,
+    "bg": 0,
+    "odds": Infinity,
+    "q": 5.45e-12,
+    "p400": 8.7e-05,
+    "gt400": [
+     11,
+     0
+    ],
+    "len_state": "pass",
+    "group": "mge"
+   },
+   {
+    "name": "DUF2924",
+    "acc": "PF11149",
+    "case": 32,
+    "bg": 0,
+    "odds": Infinity,
+    "q": 9.19e-08,
+    "p400": 1.0,
+    "gt400": [
+     0,
+     0
+    ],
+    "len_state": "na",
+    "group": "retained"
+   },
+   {
+    "name": "HTH_21",
+    "acc": "PF13276",
+    "case": 24,
+    "bg": 0,
+    "odds": Infinity,
+    "q": 1.9e-05,
+    "p400": 1.0,
+    "gt400": [
+     0,
+     0
+    ],
+    "len_state": "na",
+    "group": "mge"
+   },
+   {
+    "name": "Phage_int_SAM_5",
+    "acc": "PF13102",
+    "case": 23,
+    "bg": 0,
+    "odds": Infinity,
+    "q": 3.36e-05,
+    "p400": 0.00112,
+    "gt400": [
+     8,
+     0
+    ],
+    "len_state": "pass",
+    "group": "mge"
+   },
+   {
+    "name": "DDE_Tnp_Tn3",
+    "acc": "PF01526",
+    "case": 18,
+    "bg": 0,
+    "odds": Infinity,
+    "q": 0.000766,
+    "p400": 8.7e-05,
+    "gt400": [
+     11,
+     0
+    ],
+    "len_state": "pass",
+    "group": "mge"
+   },
+   {
+    "name": "DUF4158",
+    "acc": "PF13700",
+    "case": 13,
+    "bg": 0,
+    "odds": Infinity,
+    "q": 0.0211,
+    "p400": 0.000204,
+    "gt400": [
+     10,
+     0
+    ],
+    "len_state": "pass",
+    "group": "tn3"
+   },
+   {
+    "name": "RepSA",
+    "acc": "PF20199",
+    "case": 13,
+    "bg": 0,
+    "odds": Infinity,
+    "q": 0.0211,
+    "p400": 8.7e-05,
+    "gt400": [
+     11,
+     0
+    ],
+    "len_state": "pass",
+    "group": "mge"
+   },
+   {
+    "name": "Recombinase",
+    "acc": "PF07508",
+    "case": 79,
+    "bg": 2,
+    "odds": 39.5,
+    "q": 1.44e-18,
+    "p400": 3.64e-19,
+    "gt400": [
+     57,
+     2
+    ],
+    "len_state": "pass",
+    "group": "circular"
+   },
+   {
+    "name": "rve",
+    "acc": "PF00665",
+    "case": 39,
+    "bg": 1,
+    "odds": 39.0,
+    "q": 1.59e-08,
+    "p400": 0.00262,
+    "gt400": [
+     7,
+     0
+    ],
+    "len_state": "pass",
+    "group": "mge"
+   },
+   {
+    "name": "Phage_AlpA",
+    "acc": "PF05930",
+    "case": 30,
+    "bg": 1,
+    "odds": 30.0,
+    "q": 5.46e-06,
+    "p400": 1.0,
+    "gt400": [
+     0,
+     0
+    ],
+    "len_state": "na",
+    "group": "mge"
+   },
+   {
+    "name": "Resolvase",
+    "acc": "PF00239",
+    "case": 110,
+    "bg": 4,
+    "odds": 27.5,
+    "q": 4.08e-25,
+    "p400": 1.92e-18,
+    "gt400": [
+     55,
+     2
+    ],
+    "len_state": "pass",
+    "group": "circular"
+   },
+   {
+    "name": "Zn_ribbon_recom",
+    "acc": "PF13408",
+    "case": 55,
+    "bg": 2,
+    "odds": 27.5,
+    "q": 7.43e-12,
+    "p400": 1.2e-16,
+    "gt400": [
+     50,
+     2
+    ],
+    "len_state": "pass",
+    "group": "mge"
+   },
+   {
+    "name": "HTH_17",
+    "acc": "PF12728",
+    "case": 191,
+    "bg": 10,
+    "odds": 19.1,
+    "q": 8.27e-42,
+    "p400": 0.183,
+    "gt400": [
+     2,
+     0
+    ],
+    "len_state": "ns",
+    "group": "mge"
+   },
+   {
+    "name": "Phage_int_M",
+    "acc": "PF22022",
+    "case": 16,
+    "bg": 1,
+    "odds": 16.0,
+    "q": 0.0215,
+    "p400": 0.0553,
+    "gt400": [
+     5,
+     1
+    ],
+    "len_state": "ns",
+    "group": "mge"
+   },
+   {
+    "name": "Phage_int_SAM_4",
+    "acc": "PF13495",
+    "case": 29,
+    "bg": 2,
+    "odds": 14.5,
+    "q": 5.52e-05,
+    "p400": 0.428,
+    "gt400": [
+     1,
+     0
+    ],
+    "len_state": "ns",
+    "group": "mge"
+   },
+   {
+    "name": "Phage_integrase",
+    "acc": "PF00589",
+    "case": 257,
+    "bg": 26,
+    "odds": 9.885,
+    "q": 3.81e-46,
+    "p400": 1.9e-21,
+    "gt400": [
+     72,
+     5
+    ],
+    "len_state": "pass",
+    "group": "circular"
+   },
+   {
+    "name": "Phage_int_SAM_1",
+    "acc": "PF02899",
+    "case": 67,
+    "bg": 7,
+    "odds": 9.571,
+    "q": 5.89e-11,
+    "p400": 0.00137,
+    "gt400": [
+     10,
+     1
+    ],
+    "len_state": "pass",
+    "group": "circular"
+   },
+   {
+    "name": "Transposase_20",
+    "acc": "PF02371",
+    "case": 65,
+    "bg": 7,
+    "odds": 9.286,
+    "q": 1.73e-10,
+    "p400": 1.58e-05,
+    "gt400": [
+     13,
+     0
+    ],
+    "len_state": "pass",
+    "group": "mge"
+   },
+   {
+    "name": "DEDD_Tnp_IS110",
+    "acc": "PF01548",
+    "case": 37,
+    "bg": 5,
+    "odds": 7.4,
+    "q": 5.52e-05,
+    "p400": 1.58e-05,
+    "gt400": [
+     13,
+     0
+    ],
+    "len_state": "pass",
+    "group": "circular"
+   },
+   {
+    "name": "RuvA_N",
+    "acc": "PF01330",
+    "case": 35,
+    "bg": 5,
+    "odds": 7.0,
+    "q": 0.000149,
+    "p400": 1.0,
+    "gt400": [
+     0,
+     0
+    ],
+    "len_state": "na",
+    "group": "host"
+   },
+   {
+    "name": "DDE_Tnp_IS66",
+    "acc": "PF03050",
+    "case": 21,
+    "bg": 3,
+    "odds": 7.0,
+    "q": 0.0215,
+    "p400": 0.00624,
+    "gt400": [
+     8,
+     1
+    ],
+    "len_state": "pass",
+    "group": "mge"
+   },
+   {
+    "name": "ParB_N",
+    "acc": "PF02195",
+    "case": 21,
+    "bg": 3,
+    "odds": 7.0,
+    "q": 0.0215,
+    "p400": 0.183,
+    "gt400": [
+     2,
+     0
+    ],
+    "len_state": "ns",
+    "group": "mge"
+   },
+   {
+    "name": "RuvA_C",
+    "acc": "PF07499",
+    "case": 33,
+    "bg": 5,
+    "odds": 6.6,
+    "q": 0.000441,
+    "p400": 1.0,
+    "gt400": [
+     0,
+     0
+    ],
+    "len_state": "na",
+    "group": "host"
+   },
+   {
+    "name": "HTH_19",
+    "acc": "PF12844",
+    "case": 43,
+    "bg": 7,
+    "odds": 6.143,
+    "q": 3.09e-05,
+    "p400": 0.428,
+    "gt400": [
+     1,
+     0
+    ],
+    "len_state": "ns",
+    "group": "mge"
+   },
+   {
+    "name": "rve_3",
+    "acc": "PF13683",
+    "case": 30,
+    "bg": 5,
+    "odds": 6.0,
+    "q": 0.00214,
+    "p400": 0.183,
+    "gt400": [
+     2,
+     0
+    ],
+    "len_state": "ns",
+    "group": "mge"
+   },
+   {
+    "name": "Phage_int_SAM_3",
+    "acc": "PF14659",
+    "case": 22,
+    "bg": 4,
+    "odds": 5.5,
+    "q": 0.0402,
+    "p400": 0.213,
+    "gt400": [
+     3,
+     1
+    ],
+    "len_state": "ns",
+    "group": "mge"
+   },
+   {
+    "name": "DDE_Tnp_1",
+    "acc": "PF01609",
+    "case": 49,
+    "bg": 10,
+    "odds": 4.9,
+    "q": 3.52e-05,
+    "p400": 0.000402,
+    "gt400": [
+     17,
+     4
+    ],
+    "len_state": "pass",
+    "group": "mge"
+   },
+   {
+    "name": "HTH_23",
+    "acc": "PF13384",
+    "case": 29,
+    "bg": 6,
+    "odds": 4.833,
+    "q": 0.0108,
+    "p400": 0.0784,
+    "gt400": [
+     3,
+     0
+    ],
+    "len_state": "ns",
+    "group": "mge"
+   },
+   {
+    "name": "HTH_26",
+    "acc": "PF13443",
+    "case": 65,
+    "bg": 17,
+    "odds": 3.824,
+    "q": 1.47e-05,
+    "p400": 0.428,
+    "gt400": [
+     1,
+     0
+    ],
+    "len_state": "ns",
+    "group": "mge"
+   },
+   {
+    "name": "HTH_3",
+    "acc": "PF01381",
+    "case": 118,
+    "bg": 34,
+    "odds": 3.471,
+    "q": 9.41e-10,
+    "p400": 0.183,
+    "gt400": [
+     2,
+     0
+    ],
+    "len_state": "ns",
+    "group": "mge"
+   },
+   {
+    "name": "HTH_31",
+    "acc": "PF13560",
+    "case": 73,
+    "bg": 25,
+    "odds": 2.92,
+    "q": 0.00014,
+    "p400": 0.183,
+    "gt400": [
+     2,
+     0
+    ],
+    "len_state": "ns",
+    "group": "mge"
+   }
+  ],
+  "n_screened": 4857,
+  "n_tests": 30134,
+  "counts": {
+   "mge": 23,
+   "retained": 1,
+   "tn3": 1,
+   "circular": 5,
+   "host": 2
+  },
+  "len_counts": {
+   "pass": 16,
+   "na": 5,
+   "ns": 11
+  }
+ },
+ "C": {
+  "neutral": {
+   "odds": [
+    0.156,
+    0.375,
+    0.378,
+    0.385,
+    0.492,
+    0.566,
+    0.627,
+    0.733,
+    0.761,
+    0.814,
+    0.833
+   ],
+   "n": 11,
+   "median": 0.566
+  },
+  "length": {
+   "case_median_aa": 211,
+   "bg_median_aa": 273,
+   "case_short_pct": 36,
+   "bg_short_pct": 23
+  },
+  "genome": {
+   "shared_contig": 5757,
+   "bg_from_case_pct": 5.9,
+   "case_contig": 72086,
+   "bg_contig": 97675
+  },
+  "reverse": {
+   "ser_total": 524414,
+   "tyr_total": 1403550,
+   "ser_hit": 14088,
+   "tyr_hit": 665,
+   "odds": 58.23741291833535
+  },
+  "_source": "DISCOVERY_SUMMARY.md 的 falsifier 检查 + REVERSE_SUMMARY.md"
+ }
+}

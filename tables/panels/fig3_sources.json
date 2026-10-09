@@ -1,0 +1,49 @@
+[
+ {
+  "icon": "chrom",
+  "title": "Reference genomes",
+  "lines": [
+   "181 genomes \u00b7 168.6 Mb",
+   "168 loci with",
+   "gene coordinates"
+  ],
+  "panels": "B \u00b7 D \u00b7 G \u00b7 H"
+ },
+ {
+  "icon": "cell",
+  "title": "Whole proteome",
+  "lines": [
+   "13,494 paired loci",
+   "15,266 DUF2924",
+   "proteins"
+  ],
+  "panels": "C"
+ },
+ {
+  "icon": "reads",
+  "title": "Public RNA-seq",
+  "lines": [
+   "R. capsulatus SB1003",
+   "2 runs \u00b7 29.6 M reads"
+  ],
+  "panels": "E"
+ },
+ {
+  "icon": "prot_large",
+  "title": "Partner recombinases",
+  "lines": [
+   "162 with DUF2924",
+   "19 without"
+  ],
+  "panels": "F"
+ },
+ {
+  "icon": "prot_small",
+  "title": "Characterised RDFs",
+  "lines": [
+   "5 factors from",
+   "the literature"
+  ],
+  "panels": "K"
+ }
+]

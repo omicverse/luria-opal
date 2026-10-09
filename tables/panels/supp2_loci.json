@@ -1,0 +1,426 @@
+{
+ "duf": [
+  {
+   "organism": "Pontibaca methylaminivorans",
+   "contig": "NZ_FTPS01000001.1",
+   "duf_idx": 46,
+   "genes": [
+    {
+     "i": 42,
+     "start": 32507,
+     "end": 32665,
+     "strand": -1,
+     "pfam": null
+    },
+    {
+     "i": 43,
+     "start": 32953,
+     "end": 33084,
+     "strand": 1,
+     "pfam": null
+    },
+    {
+     "i": 44,
+     "start": 33081,
+     "end": 33998,
+     "strand": 1,
+     "pfam": "DUF7146"
+    },
+    {
+     "i": 45,
+     "start": 33988,
+     "end": 34293,
+     "strand": 1,
+     "pfam": "HTH_36"
+    },
+    {
+     "i": 46,
+     "start": 35047,
+     "end": 35502,
+     "strand": 1,
+     "pfam": "DUF2924"
+    },
+    {
+     "i": 47,
+     "start": 35499,
+     "end": 36824,
+     "strand": 1,
+     "pfam": "Resolvase"
+    },
+    {
+     "i": 48,
+     "start": 36821,
+     "end": 37210,
+     "strand": 1,
+     "pfam": null
+    },
+    {
+     "i": 49,
+     "start": 37301,
+     "end": 40051,
+     "strand": 1,
+     "pfam": "ResIII"
+    },
+    {
+     "i": 50,
+     "start": 40048,
+     "end": 41838,
+     "strand": 1,
+     "pfam": "Methylase_S"
+    }
+   ]
+  },
+  {
+   "organism": "Novosphingobium malaysiense",
+   "contig": "NZ_JTDI01000002.1",
+   "duf_idx": 567,
+   "genes": [
+    {
+     "i": 563,
+     "start": 591721,
+     "end": 592413,
+     "strand": -1,
+     "pfam": "GcrA"
+    },
+    {
+     "i": 564,
+     "start": 592511,
+     "end": 593389,
+     "strand": 1,
+     "pfam": "ABC2_membrane"
+    },
+    {
+     "i": 565,
+     "start": 593431,
+     "end": 593955,
+     "strand": -1,
+     "pfam": "YccV-like"
+    },
+    {
+     "i": 566,
+     "start": 594303,
+     "end": 595973,
+     "strand": -1,
+     "pfam": "Resolvase"
+    },
+    {
+     "i": 567,
+     "start": 595970,
+     "end": 596386,
+     "strand": -1,
+     "pfam": "DUF2924"
+    },
+    {
+     "i": 568,
+     "start": 596386,
+     "end": 596943,
+     "strand": -1,
+     "pfam": "DUF3489"
+    },
+    {
+     "i": 569,
+     "start": 597245,
+     "end": 597865,
+     "strand": -1,
+     "pfam": "TetR_N"
+    },
+    {
+     "i": 570,
+     "start": 597939,
+     "end": 599477,
+     "strand": 1,
+     "pfam": "p450"
+    },
+    {
+     "i": 571,
+     "start": 599428,
+     "end": 600291,
+     "strand": 1,
+     "pfam": "adh_short_C2"
+    }
+   ]
+  },
+  {
+   "organism": "Aestuariibius insulae",
+   "contig": "NZ_JBFONW020000003.1",
+   "duf_idx": 40,
+   "genes": [
+    {
+     "i": 36,
+     "start": 38736,
+     "end": 40133,
+     "strand": 1,
+     "pfam": "Mur_ligase_M"
+    },
+    {
+     "i": 37,
+     "start": 40310,
+     "end": 41500,
+     "strand": -1,
+     "pfam": "Peptidase_S11"
+    },
+    {
+     "i": 38,
+     "start": 41528,
+     "end": 42400,
+     "strand": -1,
+     "pfam": "SPOR"
+    },
+    {
+     "i": 39,
+     "start": 43428,
+     "end": 43940,
+     "strand": -1,
+     "pfam": "Resolvase"
+    },
+    {
+     "i": 40,
+     "start": 43940,
+     "end": 44350,
+     "strand": -1,
+     "pfam": "DUF2924"
+    },
+    {
+     "i": 41,
+     "start": 44347,
+     "end": 44658,
+     "strand": -1,
+     "pfam": "DUF3489"
+    },
+    {
+     "i": 42,
+     "start": 45001,
+     "end": 45090,
+     "strand": -1,
+     "pfam": null
+    },
+    {
+     "i": 43,
+     "start": 45546,
+     "end": 47021,
+     "strand": -1,
+     "pfam": "DUF1485"
+    },
+    {
+     "i": 44,
+     "start": 47029,
+     "end": 47931,
+     "strand": -1,
+     "pfam": "ABC_tran"
+    }
+   ]
+  },
+  {
+   "organism": "Planctomicrobium stercoris",
+   "contig": "NZ_CP195791.1",
+   "duf_idx": 4743,
+   "genes": [
+    {
+     "i": 4739,
+     "start": 5706568,
+     "end": 5707059,
+     "strand": -1,
+     "pfam": "Complex1_30kDa"
+    },
+    {
+     "i": 4740,
+     "start": 5707052,
+     "end": 5707675,
+     "strand": -1,
+     "pfam": "Oxidored_q6"
+    },
+    {
+     "i": 4741,
+     "start": 5707666,
+     "end": 5708040,
+     "strand": -1,
+     "pfam": "Oxidored_q4"
+    },
+    {
+     "i": 4742,
+     "start": 5708062,
+     "end": 5708379,
+     "strand": 1,
+     "pfam": null
+    },
+    {
+     "i": 4743,
+     "start": 5709349,
+     "end": 5709831,
+     "strand": 1,
+     "pfam": "DUF2924"
+    },
+    {
+     "i": 4744,
+     "start": 5709828,
+     "end": 5711387,
+     "strand": 1,
+     "pfam": "Resolvase"
+    },
+    {
+     "i": 4745,
+     "start": 5711384,
+     "end": 5711764,
+     "strand": 1,
+     "pfam": null
+    },
+    {
+     "i": 4746,
+     "start": 5711855,
+     "end": 5715580,
+     "strand": 1,
+     "pfam": "AAA_30"
+    },
+    {
+     "i": 4747,
+     "start": 5715569,
+     "end": 5716321,
+     "strand": -1,
+     "pfam": "DNA_processg_A"
+    }
+   ]
+  }
+ ],
+ "ctrl": [
+  {
+   "organism": "control locus (no DUF2924)",
+   "contig": "CAYOZN010000011.1",
+   "duf_idx": 31,
+   "genes": [
+    {
+     "i": 27,
+     "start": 34056,
+     "end": 34205,
+     "strand": 1,
+     "pfam": null
+    },
+    {
+     "i": 28,
+     "start": 34656,
+     "end": 37709,
+     "strand": 1,
+     "pfam": null
+    },
+    {
+     "i": 29,
+     "start": 37706,
+     "end": 38542,
+     "strand": -1,
+     "pfam": null
+    },
+    {
+     "i": 30,
+     "start": 39103,
+     "end": 39585,
+     "strand": -1,
+     "pfam": null
+    },
+    {
+     "i": 31,
+     "start": 39545,
+     "end": 40276,
+     "strand": -1,
+     "pfam": "serine recombinase"
+    },
+    {
+     "i": 32,
+     "start": 40302,
+     "end": 41339,
+     "strand": -1,
+     "pfam": null
+    },
+    {
+     "i": 33,
+     "start": 41487,
+     "end": 42848,
+     "strand": -1,
+     "pfam": null
+    },
+    {
+     "i": 34,
+     "start": 42930,
+     "end": 44216,
+     "strand": -1,
+     "pfam": null
+    },
+    {
+     "i": 35,
+     "start": 44238,
+     "end": 45080,
+     "strand": -1,
+     "pfam": null
+    }
+   ]
+  },
+  {
+   "organism": "control locus (no DUF2924)",
+   "contig": "JAJDCK010000011.1",
+   "duf_idx": 61,
+   "genes": [
+    {
+     "i": 57,
+     "start": 52189,
+     "end": 52779,
+     "strand": -1,
+     "pfam": null
+    },
+    {
+     "i": 58,
+     "start": 52815,
+     "end": 53225,
+     "strand": 1,
+     "pfam": null
+    },
+    {
+     "i": 59,
+     "start": 53222,
+     "end": 53881,
+     "strand": 1,
+     "pfam": null
+    },
+    {
+     "i": 60,
+     "start": 53883,
+     "end": 55328,
+     "strand": 1,
+     "pfam": null
+    },
+    {
+     "i": 61,
+     "start": 55337,
+     "end": 56368,
+     "strand": -1,
+     "pfam": "serine recombinase"
+    },
+    {
+     "i": 62,
+     "start": 56365,
+     "end": 56967,
+     "strand": -1,
+     "pfam": null
+    },
+    {
+     "i": 63,
+     "start": 57009,
+     "end": 57623,
+     "strand": 1,
+     "pfam": null
+    },
+    {
+     "i": 64,
+     "start": 57673,
+     "end": 58062,
+     "strand": 1,
+     "pfam": null
+    },
+    {
+     "i": 65,
+     "start": 58102,
+     "end": 58398,
+     "strand": 1,
+     "pfam": null
+    }
+   ]
+  }
+ ]
+}

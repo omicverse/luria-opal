@@ -1,0 +1,542 @@
+[
+ {
+  "rec": "JAQXJI010000010.1_33",
+  "group": "LSR + DUF2924",
+  "contig": "JAQXJI010000010.1",
+  "rec_idx": 33,
+  "genes": [
+   {
+    "i": 29,
+    "start": 29926,
+    "end": 30363,
+    "strand": -1,
+    "pfam": "AMPK1_CBM",
+    "doms": [
+     "AMPK1_CBM",
+     "CBM_48"
+    ]
+   },
+   {
+    "i": 30,
+    "start": 30360,
+    "end": 30890,
+    "strand": -1,
+    "pfam": "Radical_SAM",
+    "doms": [
+     "Radical_SAM"
+    ]
+   },
+   {
+    "i": 31,
+    "start": 31426,
+    "end": 32115,
+    "strand": 1,
+    "pfam": null,
+    "doms": []
+   },
+   {
+    "i": 32,
+    "start": 32131,
+    "end": 32877,
+    "strand": -1,
+    "pfam": "DnaB_C",
+    "doms": [
+     "AAA_25",
+     "ATPase",
+     "DnaB_C"
+    ]
+   },
+   {
+    "i": 33,
+    "start": 32906,
+    "end": 34516,
+    "strand": -1,
+    "pfam": "recombinase",
+    "doms": [
+     "Recombinase",
+     "Resolvase"
+    ]
+   },
+   {
+    "i": 34,
+    "start": 34506,
+    "end": 34910,
+    "strand": -1,
+    "pfam": "DUF2924",
+    "doms": [
+     "DUF2924"
+    ]
+   },
+   {
+    "i": 35,
+    "start": 34957,
+    "end": 35877,
+    "strand": -1,
+    "pfam": "WYL",
+    "doms": [
+     "HTH_11",
+     "WCX",
+     "WYL"
+    ]
+   },
+   {
+    "i": 36,
+    "start": 35855,
+    "end": 37075,
+    "strand": -1,
+    "pfam": "PDDEXK_4",
+    "doms": [
+     "PDDEXK_4"
+    ]
+   },
+   {
+    "i": 37,
+    "start": 37404,
+    "end": 37724,
+    "strand": -1,
+    "pfam": "DUF5681",
+    "doms": [
+     "DUF5681"
+    ]
+   }
+  ]
+ },
+ {
+  "rec": "CALVEU010000008.1_33",
+  "group": "LSR + DUF2924",
+  "contig": "CALVEU010000008.1",
+  "rec_idx": 33,
+  "genes": [
+   {
+    "i": 29,
+    "start": 25029,
+    "end": 26054,
+    "strand": 1,
+    "pfam": "RecA_N",
+    "doms": [
+     "ATPase",
+     "Rad51",
+     "RecA_C",
+     "RecA_N"
+    ]
+   },
+   {
+    "i": 30,
+    "start": 26210,
+    "end": 27253,
+    "strand": 1,
+    "pfam": null,
+    "doms": []
+   },
+   {
+    "i": 31,
+    "start": 27336,
+    "end": 27740,
+    "strand": 1,
+    "pfam": null,
+    "doms": []
+   },
+   {
+    "i": 32,
+    "start": 28415,
+    "end": 29395,
+    "strand": 1,
+    "pfam": "DUF3644",
+    "doms": [
+     "DUF3644"
+    ]
+   },
+   {
+    "i": 33,
+    "start": 29392,
+    "end": 31008,
+    "strand": -1,
+    "pfam": "recombinase",
+    "doms": [
+     "Recombinase",
+     "Resolvase"
+    ]
+   },
+   {
+    "i": 34,
+    "start": 31001,
+    "end": 31465,
+    "strand": -1,
+    "pfam": "DUF2924",
+    "doms": [
+     "DUF2924"
+    ]
+   },
+   {
+    "i": 35,
+    "start": 31465,
+    "end": 31611,
+    "strand": -1,
+    "pfam": null,
+    "doms": []
+   },
+   {
+    "i": 36,
+    "start": 31710,
+    "end": 32447,
+    "strand": -1,
+    "pfam": null,
+    "doms": []
+   }
+  ]
+ },
+ {
+  "rec": "JAZRTQ010000055.1_6",
+  "group": "LSR, no DUF2924",
+  "contig": "JAZRTQ010000055.1",
+  "rec_idx": 6,
+  "genes": [
+   {
+    "i": 2,
+    "start": 1350,
+    "end": 1691,
+    "strand": 1,
+    "pfam": "RBFA",
+    "doms": [
+     "RBFA"
+    ]
+   },
+   {
+    "i": 3,
+    "start": 1704,
+    "end": 2669,
+    "strand": 1,
+    "pfam": "DHH",
+    "doms": [
+     "DHH",
+     "DHHA1"
+    ]
+   },
+   {
+    "i": 4,
+    "start": 2762,
+    "end": 2992,
+    "strand": -1,
+    "pfam": null,
+    "doms": []
+   },
+   {
+    "i": 5,
+    "start": 3153,
+    "end": 3254,
+    "strand": -1,
+    "pfam": null,
+    "doms": []
+   },
+   {
+    "i": 6,
+    "start": 3337,
+    "end": 5490,
+    "strand": -1,
+    "pfam": "recombinase",
+    "doms": [
+     "Recombinase",
+     "Resolvase",
+     "SpoVT_C",
+     "Zn_ribbon_recom"
+    ]
+   },
+   {
+    "i": 7,
+    "start": 5622,
+    "end": 5864,
+    "strand": -1,
+    "pfam": null,
+    "doms": []
+   },
+   {
+    "i": 8,
+    "start": 5995,
+    "end": 6612,
+    "strand": -1,
+    "pfam": "Resolvase",
+    "doms": [
+     "Resolvase"
+    ]
+   },
+   {
+    "i": 9,
+    "start": 7360,
+    "end": 8016,
+    "strand": -1,
+    "pfam": "DUF6291",
+    "doms": [
+     "DUF6291"
+    ]
+   },
+   {
+    "i": 10,
+    "start": 8311,
+    "end": 8658,
+    "strand": -1,
+    "pfam": "DUF6291",
+    "doms": [
+     "DUF6291"
+    ]
+   }
+  ]
+ },
+ {
+  "rec": "CAMNTQ010000001.1_44",
+  "group": "LSR, no DUF2924",
+  "contig": "CAMNTQ010000001.1",
+  "rec_idx": 44,
+  "genes": [
+   {
+    "i": 40,
+    "start": 42671,
+    "end": 44134,
+    "strand": -1,
+    "pfam": "ABC_tran",
+    "doms": [
+     "ABC_tran"
+    ]
+   },
+   {
+    "i": 41,
+    "start": 44137,
+    "end": 45159,
+    "strand": -1,
+    "pfam": "His_kinase",
+    "doms": [
+     "HATPase_c",
+     "His_kinase"
+    ]
+   },
+   {
+    "i": 42,
+    "start": 45172,
+    "end": 46827,
+    "strand": -1,
+    "pfam": "HTH_18",
+    "doms": [
+     "HTH_18",
+     "HTH_AraC",
+     "Response_reg"
+    ]
+   },
+   {
+    "i": 43,
+    "start": 47132,
+    "end": 47734,
+    "strand": -1,
+    "pfam": "NMT1_2",
+    "doms": [
+     "NMT1",
+     "NMT1_2"
+    ]
+   },
+   {
+    "i": 44,
+    "start": 47676,
+    "end": 49613,
+    "strand": -1,
+    "pfam": "recombinase",
+    "doms": [
+     "Recombinase",
+     "Resolvase",
+     "Zn_ribbon_recom"
+    ]
+   },
+   {
+    "i": 45,
+    "start": 49911,
+    "end": 50687,
+    "strand": -1,
+    "pfam": "CutC",
+    "doms": [
+     "CutC"
+    ]
+   },
+   {
+    "i": 46,
+    "start": 50856,
+    "end": 51131,
+    "strand": -1,
+    "pfam": "NMT1",
+    "doms": [
+     "NMT1"
+    ]
+   },
+   {
+    "i": 47,
+    "start": 51144,
+    "end": 52553,
+    "strand": -1,
+    "pfam": "Glucosaminidase",
+    "doms": [
+     "Amidase_2",
+     "Glucosaminidase"
+    ]
+   },
+   {
+    "i": 48,
+    "start": 52610,
+    "end": 52903,
+    "strand": -1,
+    "pfam": "Phage_holin_5_2",
+    "doms": [
+     "Phage_holin_5_2"
+    ]
+   }
+  ]
+ },
+ {
+  "rec": "CAVYIZ010000014.1_44",
+  "group": "small serine + DUF2924",
+  "contig": "CAVYIZ010000014.1",
+  "rec_idx": 44,
+  "genes": [
+   {
+    "i": 40,
+    "start": 29734,
+    "end": 30093,
+    "strand": -1,
+    "pfam": "LssY_C",
+    "doms": [
+     "LssY_C"
+    ]
+   },
+   {
+    "i": 41,
+    "start": 30205,
+    "end": 30429,
+    "strand": -1,
+    "pfam": null,
+    "doms": []
+   },
+   {
+    "i": 42,
+    "start": 30482,
+    "end": 30835,
+    "strand": 1,
+    "pfam": "DDE_Tnp_1",
+    "doms": [
+     "DDE_Tnp_1",
+     "DDE_Tnp_1_2",
+     "DDE_Tnp_1_3"
+    ]
+   },
+   {
+    "i": 43,
+    "start": 30895,
+    "end": 31344,
+    "strand": 1,
+    "pfam": null,
+    "doms": []
+   },
+   {
+    "i": 44,
+    "start": 31218,
+    "end": 32513,
+    "strand": -1,
+    "pfam": "recombinase",
+    "doms": [
+     "Resolvase"
+    ]
+   },
+   {
+    "i": 45,
+    "start": 32510,
+    "end": 33091,
+    "strand": -1,
+    "pfam": "DUF2924",
+    "doms": [
+     "DUF2924"
+    ]
+   },
+   {
+    "i": 46,
+    "start": 33066,
+    "end": 33713,
+    "strand": -1,
+    "pfam": "DUF3489",
+    "doms": [
+     "DUF3489"
+    ]
+   },
+   {
+    "i": 47,
+    "start": 33766,
+    "end": 34500,
+    "strand": 1,
+    "pfam": null,
+    "doms": []
+   },
+   {
+    "i": 48,
+    "start": 34592,
+    "end": 34783,
+    "strand": -1,
+    "pfam": null,
+    "doms": []
+   }
+  ]
+ },
+ {
+  "rec": "CANRFV010000017.1_23",
+  "group": "small serine, no DUF2924",
+  "contig": "CANRFV010000017.1",
+  "rec_idx": 23,
+  "genes": [
+   {
+    "i": 19,
+    "start": 12508,
+    "end": 12915,
+    "strand": -1,
+    "pfam": "MobC_2",
+    "doms": [
+     "MobC_2",
+     "NikA-like"
+    ]
+   },
+   {
+    "i": 20,
+    "start": 12919,
+    "end": 13125,
+    "strand": -1,
+    "pfam": null,
+    "doms": []
+   },
+   {
+    "i": 21,
+    "start": 13547,
+    "end": 13849,
+    "strand": 1,
+    "pfam": null,
+    "doms": []
+   },
+   {
+    "i": 22,
+    "start": 13931,
+    "end": 14125,
+    "strand": 1,
+    "pfam": null,
+    "doms": []
+   },
+   {
+    "i": 23,
+    "start": 14216,
+    "end": 14785,
+    "strand": 1,
+    "pfam": "recombinase",
+    "doms": [
+     "Resolvase"
+    ]
+   },
+   {
+    "i": 24,
+    "start": 15084,
+    "end": 15248,
+    "strand": 1,
+    "pfam": null,
+    "doms": []
+   }
+  ]
+ }
+]

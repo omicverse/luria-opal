@@ -1,0 +1,358 @@
+{
+ "A": {
+  "clusters": [
+   {
+    "n": 37,
+    "cm": 4,
+    "bm": 0,
+    "dom": "DUF2924"
+   },
+   {
+    "n": 28,
+    "cm": 7,
+    "bm": 0,
+    "dom": "DUF2924,Recombinase,Reso"
+   },
+   {
+    "n": 133,
+    "cm": 19,
+    "bm": 0,
+    "dom": "DUF2924,DUF3489,Resolvas"
+   }
+  ],
+  "case_hit": 30,
+  "case_n": 8491,
+  "bg_hit": 0,
+  "bg_n": 7558,
+  "p": 5.102358444706514e-09
+ },
+ "B": {
+  "n_contig": 181,
+  "n_named": 80,
+  "n_placeholder": 37,
+  "n_genus": 35,
+  "top": [
+   [
+    "Terriglobia",
+    3
+   ],
+   [
+    "Paracoccus",
+    3
+   ],
+   [
+    "Beijerinckiaceae",
+    2
+   ],
+   [
+    "Ruegeria",
+    2
+   ],
+   [
+    "Novosphingobium",
+    2
+   ],
+   [
+    "Methylobacterium",
+    2
+   ],
+   [
+    "Caulobacteraceae",
+    1
+   ],
+   [
+    "Nitrosomonadaceae",
+    1
+   ],
+   [
+    "Alphaproteobacteria",
+    1
+   ],
+   [
+    "Devosia",
+    1
+   ]
+  ],
+  "max_share_pct": 6.976744186046512
+ },
+ "C": {
+  "structures": [
+   {
+    "q": "NZ_JAKSYD010000196.1_10",
+    "group": "unassigned",
+    "evalue": 0.07445,
+    "fident": 0.114,
+    "prob": 0.4829,
+    "target": "3psk-assembly6_D-3",
+    "desc": "3psk-assembly6_D-3 Crystal Structure of the Spt6 Tandem SH2 "
+   },
+   {
+    "q": "R_CAYOTD010000767.1_2",
+    "group": "RAMA-like",
+    "evalue": 0.0848,
+    "fident": 0.196,
+    "prob": 0.6656,
+    "target": "7ydw-assembly1_D",
+    "desc": "7ydw-assembly1_D Crystal structure of the MPND-DNA complex"
+   },
+   {
+    "q": "duf2924_q1",
+    "group": "unassigned",
+    "evalue": 0.09516,
+    "fident": 0.185,
+    "prob": 0.6323,
+    "target": "7ydw-assembly1_D",
+    "desc": "7ydw-assembly1_D Crystal structure of the MPND-DNA complex"
+   },
+   {
+    "q": "R_JAWKXJ010000004.1_342",
+    "group": "RAMA-like",
+    "evalue": 0.1396,
+    "fident": 0.132,
+    "prob": 0.3735,
+    "target": "3psk-assembly6_D-3",
+    "desc": "3psk-assembly6_D-3 Crystal Structure of the Spt6 Tandem SH2 "
+   },
+   {
+    "q": "N_MNTT01000013.1_274",
+    "group": "non-RAMA",
+    "evalue": 0.1451,
+    "fident": 0.16,
+    "prob": 0.269,
+    "target": "5ks8-assembly1_D",
+    "desc": "5ks8-assembly1_D Crystal structure of two-subunit pyruvate c"
+   },
+   {
+    "q": "R_JBGUWS010000009.1_178",
+    "group": "RAMA-like",
+    "evalue": 0.213,
+    "fident": 0.152,
+    "prob": 0.3035,
+    "target": "5ks8-assembly1_F",
+    "desc": "5ks8-assembly1_F Crystal structure of two-subunit pyruvate c"
+   },
+   {
+    "q": "R_JASBTF010000002.1_707",
+    "group": "RAMA-like",
+    "evalue": 0.3157,
+    "fident": 0.095,
+    "prob": 0.2452,
+    "target": "7bk8-assembly1_A",
+    "desc": "7bk8-assembly1_A X-ray crystal structure of Pseudomonas aeru"
+   },
+   {
+    "q": "R_JBIIHW010000002.1_166",
+    "group": "RAMA-like",
+    "evalue": 0.3396,
+    "fident": 0.083,
+    "prob": 0.2771,
+    "target": "3t3x-assembly2_B",
+    "desc": "3t3x-assembly2_B 1.57 A structure of Friedreich's ataxia fra"
+   },
+   {
+    "q": "CAVYIZ010000014.1_45",
+    "group": "unassigned",
+    "evalue": 0.3787,
+    "fident": 0.137,
+    "prob": 0.236,
+    "target": "5u1c-assembly1_C",
+    "desc": "5u1c-assembly1_C Structure of tetrameric HIV-1 Strand Transf"
+   },
+   {
+    "q": "R_DOIS01000004.1_3",
+    "group": "RAMA-like",
+    "evalue": 0.4005,
+    "fident": 0.146,
+    "prob": 0.2141,
+    "target": "4or8-assembly1_A",
+    "desc": "4or8-assembly1_A Crystal structure of Marburg virus VP24"
+   },
+   {
+    "q": "N_JAALKD010000072.1_20",
+    "group": "non-RAMA",
+    "evalue": 0.4912,
+    "fident": 0.095,
+    "prob": 0.3484,
+    "target": "3psk-assembly5_C-2",
+    "desc": "3psk-assembly5_C-2 Crystal Structure of the Spt6 Tandem SH2 "
+   },
+   {
+    "q": "CAVTZH010000009.1_1664",
+    "group": "unassigned",
+    "evalue": 0.5801,
+    "fident": 0.2,
+    "prob": 0.5563,
+    "target": "7ydt-assembly2_B",
+    "desc": "7ydt-assembly2_B Crystal structure of mouse MPND"
+   },
+   {
+    "q": "N_DASPJU010000615.1_2",
+    "group": "non-RAMA",
+    "evalue": 0.6468,
+    "fident": 0.13,
+    "prob": 0.2869,
+    "target": "5ks8-assembly1_D",
+    "desc": "5ks8-assembly1_D Crystal structure of two-subunit pyruvate c"
+   },
+   {
+    "q": "R_NZ_CP187419.1_2759",
+    "group": "RAMA-like",
+    "evalue": 0.6639,
+    "fident": 0.131,
+    "prob": 0.3267,
+    "target": "6c5x-assembly1_A",
+    "desc": "6c5x-assembly1_A Crystal Structure of SOCS1 in complex with "
+   },
+   {
+    "q": "N_NZ_WTYO01000005.1_77",
+    "group": "non-RAMA",
+    "evalue": 0.7102,
+    "fident": 0.19,
+    "prob": 0.2248,
+    "target": "6ahu-assembly1_K",
+    "desc": "6ahu-assembly1_K Cryo-EM structure of human Ribonuclease P w"
+   },
+   {
+    "q": "N_CAWAOP010000019.1_24",
+    "group": "non-RAMA",
+    "evalue": 0.7866,
+    "fident": 0.17,
+    "prob": 0.2747,
+    "target": "3bin-assembly3_A",
+    "desc": "3bin-assembly3_A Structure of the DAL-1 and TSLC1 (372-383) "
+   },
+   {
+    "q": "R_CAWBOY010000004.1_952",
+    "group": "RAMA-like",
+    "evalue": 0.8604,
+    "fident": 0.144,
+    "prob": 0.2623,
+    "target": "2l3t-assembly1_A",
+    "desc": "2l3t-assembly1_A Solution structure of tandem SH2 domain fro"
+   },
+   {
+    "q": "N_JAQUYN010000085.1_2",
+    "group": "non-RAMA",
+    "evalue": 1.072,
+    "fident": 0.147,
+    "prob": 0.2644,
+    "target": "7wte-assembly1_B",
+    "desc": "7wte-assembly1_B Cryo-EM structure of human pyruvate carboxy"
+   },
+   {
+    "q": "N_CAWJKY010000003.1_2147",
+    "group": "non-RAMA",
+    "evalue": 1.094,
+    "fident": 0.093,
+    "prob": 0.3456,
+    "target": "2xp1-assembly1_A-2",
+    "desc": "2xp1-assembly1_A-2 Structure of the tandem SH2 domains from "
+   },
+   {
+    "q": "N_NZ_AUCT01000017.1_90",
+    "group": "non-RAMA",
+    "evalue": 1.141,
+    "fident": 0.13,
+    "prob": 0.2776,
+    "target": "9dtr-assembly1_C",
+    "desc": "9dtr-assembly1_C Structure of the yeast post-catalytic P com"
+   },
+   {
+    "q": "R_JBPOIK010000046.1_4",
+    "group": "RAMA-like",
+    "evalue": 1.297,
+    "fident": 0.159,
+    "prob": 0.3623,
+    "target": "2iuh-assembly1_A",
+    "desc": "2iuh-assembly1_A Crystal structure of the PI3-kinase p85 N-t"
+   },
+   {
+    "q": "N_CAVXKV010000006.1_8",
+    "group": "non-RAMA",
+    "evalue": 1.512,
+    "fident": 0.071,
+    "prob": 0.5825,
+    "target": "7nmm-assembly2_J",
+    "desc": "7nmm-assembly2_J Complex of rice blast (Magnaporthe oryzae) "
+   },
+   {
+    "q": "R_CAYUHJ010000147.1_13",
+    "group": "RAMA-like",
+    "evalue": 1.641,
+    "fident": 0.206,
+    "prob": 0.5143,
+    "target": "6h6p-assembly1_A",
+    "desc": "6h6p-assembly1_A UbiJ-SCP2 Ubiquinone synthesis protein"
+   },
+   {
+    "q": "N_CAWJUK010000007.1_89",
+    "group": "non-RAMA",
+    "evalue": 2.077,
+    "fident": 0.314,
+    "prob": 0.5861,
+    "target": "5z1v-assembly2_B",
+    "desc": "5z1v-assembly2_B Crystal structure of AvrPib"
+   }
+  ],
+  "confident_threshold": 0.001,
+  "counts": {
+   "non-RAMA": 10,
+   "RAMA-like": 10,
+   "unassigned": 4
+  },
+  "hits_lt_0.1": {
+   "RAMA-like": 1,
+   "unassigned": 2
+  },
+  "fisher_p": 1.0
+ },
+ "D": {
+  "n_rama": 82,
+  "n_total": 183,
+  "recombinase_adjacent": {
+   "RAMA-like": [
+    77,
+    5
+   ],
+   "non-RAMA": [
+    98,
+    3
+   ]
+  },
+  "fisher_p": 0.47005746983587937
+ },
+ "E": {
+  "effect": {
+   "GANTC": {
+    "mean_A": 1.9090571199034712,
+    "mean_B": 1.7678321057811104,
+    "d": 0.13465311632525798
+   },
+   "GATC": {
+    "mean_A": 6.849732564202554,
+    "mean_B": 7.0339222919762285,
+    "d": -0.06874297790630074
+   }
+  },
+  "n": {
+   "A": {
+    "n": 7758
+   },
+   "B": {
+    "n": 15000
+   },
+   "effect": {
+    "GANTC": {
+     "mean_A": 1.9090571199034712,
+     "mean_B": 1.7678321057811104,
+     "d": 0.13465311632525798
+    },
+    "GATC": {
+     "mean_A": 6.849732564202554,
+     "mean_B": 7.0339222919762285,
+     "d": -0.06874297790630074
+    }
+   }
+  }
+ }
+}
